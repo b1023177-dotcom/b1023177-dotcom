@@ -5,7 +5,7 @@
 
 # About Me
 
-1. I'm a web frontend and backend developer from Japan
+1. 公立はこだて未来大学情報アーキテクチャ学部知能システムコース
 
 2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
 
