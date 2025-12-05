@@ -1,4 +1,28 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=00C7FF&center=true&vCenter=true&width=900&height=70&lines=Fullstack+Developer+from+Japan;React+%7C+TypeScript+%7C+Docker;Creating+%F0%9F%9A%80+with+LangChain+and+AI" />
+<p align="center">
+  <svg width="100%" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00d2ff"/>
+        <stop offset="100%" stop-color="#3a7bd5"/>
+      </linearGradient>
+    </defs>
+
+    <path fill="url(#waveGrad)">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+        values="
+        M0,50 C300,120 600,-20 1200,70 L1200,0 L0,0 Z;
+        M0,40 C300,0 600,150 1200,50 L1200,0 L0,0 Z;
+        M0,50 C300,120 600,-20 1200,70 L1200,0 L0,0 Z
+        "
+      />
+    </path>
+
+    <text x="50%" y="75" font-size="40" text-anchor="middle" fill="white">
+      yukimura-manase | Web Developer
+    </text>
+  </svg>
+</p>
+
 
 # About Me
 
