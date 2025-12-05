@@ -16,7 +16,7 @@
     />
   </path>
 
-  <text x="50%" y="85" font-size="40" text-anchor="middle" fill="white" font-family="Segoe UI, sans-serif">
+  <text x="50%" y="85" font-size="40" text-anchor="middle" fill="black" font-family="Segoe UI, sans-serif">
     yukimura-manase | Fullstack Developer
   </text>
 </svg>
