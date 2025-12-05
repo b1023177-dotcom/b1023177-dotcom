@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=00C7FF&center=true&vCenter=true&width=900&height=70&lines=Fullstack+Developer+from+Japan;React+%7C+TypeScript+%7C+Docker;Creating+%F0%9F%9A%80+with+LangChain+and+AI" />
+
 # About Me
 
 1. I'm a web frontend and backend developer from Japan
