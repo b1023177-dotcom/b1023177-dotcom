@@ -1,27 +1,19 @@
 <p align="center">
-  <svg width="100%" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+  <svg width="100%" height="120">
     <defs>
-      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00d2ff"/>
-        <stop offset="100%" stop-color="#3a7bd5"/>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00C6FF;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0072FF;stop-opacity:1" />
       </linearGradient>
     </defs>
-
-    <path fill="url(#waveGrad)">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite"
-        values="
-        M0,50 C300,120 600,-20 1200,70 L1200,0 L0,0 Z;
-        M0,40 C300,0 600,150 1200,50 L1200,0 L0,0 Z;
-        M0,50 C300,120 600,-20 1200,70 L1200,0 L0,0 Z
-        "
-      />
-    </path>
-
-    <text x="50%" y="75" font-size="40" text-anchor="middle" fill="white">
-      yukimura-manase | Web Developer
+    <rect width="100%" height="120" fill="url(#grad)"></rect>
+    <text x="50%" y="50%" font-size="40" dominant-baseline="middle" text-anchor="middle" fill="white">
+      Fullstack Developer | yukimura-manase
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" />
     </text>
   </svg>
 </p>
+
 
 
 # About Me
