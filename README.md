@@ -34,12 +34,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukimura-manase&layout=compact&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 <p align="center">Thanks for visiting! 🚀</p>
